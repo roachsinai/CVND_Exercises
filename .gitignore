@@ -104,3 +104,6 @@ venv.bak/
 
 # mkdocs documentation
 /site
+
+# pycharm project settings
+.idea/
